@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+<doctype html>
 
-You can use the [editor on GitHub](https://github.com/masomebababagheri/Sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+<title>انگیزه نامه</title>
+</head>
 
-### Markdown
+<body style="background-color:powderblue;">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1 style="text-align:center;">بسم الله الرحمن الرحیم</h1>
+<pre style="text-align:center;">
+انگیزه نامه
+معصومه باباباقری
+</pre>
 
-```markdown
-Syntax highlighted code block
+<hr>
 
-# Header 1
-## Header 2
-### Header 3
+<h2 style="text-align:center;">اهداف و انگیزه</h2>
+<p style="text-align:center;"> . هدف های زیادی میتوان داشت ولی هدف اصلی رو باید پیدا کرد تا اهداف دیگر در راستای آن قرار بگیرند
 
-- Bulleted
-- List
+<hr>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<hr>
 
-[Link](url) and ![Image](src)
-```
+<h3 style="text-align:center;">برنامه</h3>
+  <pre style="text-align:center;"> . 
+  من برای یادگیری بیشتر به دانشگاه سراسری اراک رفتم ولی به دلایلی مجبور شدم به پیام نور دماوند بیایم
+  
+  و الان هم ترم آخر هستم و میدونم مدرکم در زندگی به کارم نمی آید چون چیزی یاد نگرفتم
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  هرچی یاد گرفتم با کمک اساتید و خارج از کتاب های دانشگاه بوده است
+  
+  به امید خدا با کمک اساتید مهربانم برنامه نویسی وب رو یاد میگیرم  با این که خیلی دیر شروع کردم 
+    </pre>
 
-### Jekyll Themes
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masomebababagheri/Sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h4 style="text-align:center;">انگیزه</h4>
+<pre style="text-align:center;">
 
-### Support or Contact
+وقتی انجامش ندی، از کجا میفهمی که میتونستی یا نه؟
+ 
+* با تشکر فراوان از استاد عزیز گرانقدر جناب آقای دکتر سید علی رضوی ابراهیمی *
+</pre>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>
